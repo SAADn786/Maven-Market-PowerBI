@@ -8,10 +8,7 @@ This Power BI dashboard provides insights into product sales, transactions, prof
 - 📊 **Product Performance Analysis**  
 - 🔄 **Return Rate Breakdown**  
 - 🌎 **Geographical Sales Distribution**  
-- 📈 **Weekly Revenue Trends**  
-
-## Dataset  
-- The dataset (`maven_market_data.csv`) contains sales transactions, profit margins, and return data for different product brands.  
+- 📈 **Weekly Revenue Trends**   
 
 ## Dashboard Preview  
 ![Dashboard Screenshot](dashboard_screenshot.png)  
